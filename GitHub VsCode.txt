@@ -1,0 +1,19 @@
+23:50 25.06.2023
+
+https://www.youtube.com/watch?v=EcItA9wXKnQ
+  Работа с Git/Github При Помощи Visual Studio Code БЕЗ Использования CMD
+
+
+1. Log GitHub
+2. Create new repository
+  https://github.com/new  # private
+  add .GitIgnore  # java
+  add Description (optional)
+
+
+https://github.com/IvanDrojjin/GB_Java.git
+
+VsCode 
+press F1
+
+git clone https://github.com/IvanDrojjin/GB_Java.git    # to J:\_Archiv\GB\__Java\__Seminar
