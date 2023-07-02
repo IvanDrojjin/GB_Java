@@ -67,7 +67,6 @@ public class Sem3_HW {
         minimum = worstGrade(arr1);
         average = midGrade(arr1);
 
-        //напишите тут ваш код
         System.out.print("I can convert a List<Integer> to int[] in Java \n");
         printAllGrades(arr1);
         System.out.print("max : " + maximum + "\t min : " + minimum+ "\n");
