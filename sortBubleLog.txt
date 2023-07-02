@@ -1,0 +1,4 @@
+июл. 03, 2023 12:31:50 AM Sem2_HW sortBubleLog
+INFO: [11, 3, 14, 16, 7]
+июл. 03, 2023 12:31:50 AM Sem2_HW sortBubleLog
+INFO: [3, 7, 11, 14, 16]
