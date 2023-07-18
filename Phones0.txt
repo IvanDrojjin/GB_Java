@@ -1,0 +1,7 @@
+Ivanov:1234567
+Petrov:012
+Sidorov:8765431
+Ivanov:0070089
+012:012
+Ivanov:0076089
+Petrov:01213
